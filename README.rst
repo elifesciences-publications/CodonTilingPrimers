@@ -4,6 +4,8 @@ Tiling primers for codon mutagenesis
 
 This repository contains information and a Python script for designing codon-mutant libraries of genes using a protocol from the `Bloom lab`_.
 
+### This code is associated with the paper from Soh et al., "Comprehensive mapping of adaptation of the avian influenza polymerase protein PB2 to humans". eLife, 2019. http://dx.doi.org/10.7554/eLife.45079
+
 Codon mutagenesis
 -----------------
 Codon mutagenesis can be used to create mutant libraries of a gene with all possible codon mutations.
